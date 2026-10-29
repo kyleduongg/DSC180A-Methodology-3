@@ -2,3 +2,5 @@
 
 Kyle Duong
 
+kyduong@ucsd.edu
+
